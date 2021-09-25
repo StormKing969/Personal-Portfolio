@@ -525,12 +525,12 @@ img {
 }
 
 /*=============== SKILL 2 ===============*/
-.skills_php {
-  width: 50%;
+.skills_node {
+  width: 90%;
 }
 
 .skills_mysql {
-  width: 80%;
+  width: 90%;
 }
 
 .skills_firebase {
