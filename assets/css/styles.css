@@ -405,7 +405,7 @@ img {
   border-radius: .5rem;
   justify-self: center;
   align-self: center;
-  padding-top: 100px;
+  /* padding-top: 100px; */
 }
 
 .about_description {
