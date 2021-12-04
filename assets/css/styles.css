@@ -504,76 +504,76 @@ img {
 }
 
 /*=============== SKILL 1 ===============*/
-.skills_html {
-  width: 90%;
+/* .skills_html {
+  width: 100%;
 }
 
 .skills_css {
-  width: 90%;
+  width: 100%;
 }
 
 .skills_js {
-  width: 90%;
+  width: 100%;
 }
 
 .skills_jquery {
-  width: 90%;
+  width: 100%;
 }
 
 .skills_react {
-  width: 40%;
-}
+  width: 100%;
+} */
 
 /*=============== SKILL 2 ===============*/
-.skills_node {
-  width: 90%;
+/* .skills_node {
+  width: 100%;
 }
 
 .skills_mysql {
-  width: 90%;
+  width: 100%;
 }
 
 .skills_firebase {
-  width: 70%;
+  width: 100%;
 }
 
 .skills_python {
-  width: 90%;
+  width: 100%;
 }
 
 .skills_java {
-  width: 90%;
-}
+  width: 100%;
+} */
 
 /*=============== SKILL 3 ===============*/
-.skills_problem_solving {
-  width: 90%;
+/* .skills_problem_solving {
+  width: 100%;
 }
 
 .skills_leadership {
-  width: 90%;
+  width: 100%;
 }
 
 .skills_agile_scrum {
-  width: 90%;
+  width: 100%;
 }
 
 .skills_professionalism {
-  width: 90%;
+  width: 100%;
 }
 
 .skills_communication {
-  width: 90%;
-}
+  width: 100%;
+} */
 
 /*=============== SKILL 4 ===============*/
-.skills_figma {
-  width: 30%;
+/* .skills_figma {
+  width: 100%;
 }
 
 .skills_photoshop {
-  width: 50%;
-}
+  width: 100%;
+} */
 
 .skills_close .skills_list {
   height: 0;
